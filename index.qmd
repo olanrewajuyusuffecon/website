@@ -1,0 +1,30 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  #links:
+  #  - icon: twitter
+  #   text: Twitter
+  #    href: https://x.com/olayusuff14
+  #  - icon: github
+  #   text: Github
+  #   href: https://github.com/olanrewajuyusuffecon
+  #  - icon: linkedin
+  #    text: LinkedIn
+  #    href: https://www.linkedin.com/in/olanrewaju-yusuff-58417a19b/
+  #  - icon: envelope
+  #    text: Email
+  #    href: "mailto:oyusuff4@student.gsu.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Welcome to my website! I am a Ph.D. candidate in Economics at Georgia State University. My research focuses on Health Economics, Public Economics, and Development Economics, specializing in access to healthcare facilities, utilization, and health outcomes. My job market paper examines the health effects of access to mental health treatment facilities.
+I previously worked as a Research Assistant at the [Centre for Econometrics and Applied Research (CEAR)](https://www.linkedin.com/company/centre-for-econometrics-and-applied-research/posts/?feedView=all) at the University of Ibadan. 
+
+
+

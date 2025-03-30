@@ -1,0 +1,47 @@
+---
+title: <strong>Teaching</strong>
+---
+
+## <strong>Instructor of Record</strong>
+**ECON 4350: Economics of Poverty and Public Policy**  
+- Fall 2024
+
+::: {.callout-note appearance="simple"}
+## Teaching Evaluation Highlights
+
+**Average Rating: 4.6/5.0** (Fall 2024)
+
+*"Professor Yusuff was incredibly kind, interactive, and helpful. He always looked to our preferences and made sure that we were heard."*
+
+*"I truly appreciated how he encouraged us to participate in discussions; he was always eager to hear our ideas and would challenge them further, helping us become more informed."*
+
+**Key Metrics:**
+
+- Course increased ability to critically evaluate ideas: **4.8/5.0**
+- Created an environment that helped students learn: **4.6/5.0**
+- Course challenged students to think: **4.7/5.0**
+:::
+
+## <strong>Teaching Assistant</strong>
+1. **Econ 4220: Environmental Economics and Policy**  
+   - Fall 2021
+2. **Econ 2105: Principles of Macroeconomics**  
+   - Spring 2022
+3. **Econ 2100: Global Economics**  
+   - Fall 2022
+4. **Econ 4300: Economics of Cities**  
+   - Spring 2025
+
+## <strong>Teaching Gallery</strong>
+
+![Teaching Economics of Poverty and Public Policy](/img/teaching1.jpeg)
+
+*Teaching Economics of Poverty and Public Policy*
+
+![Class presentations on Economic policies](/img/teaching2.jpeg)
+
+*Group 9 presentations on ``Housing in the United States: Issues, Solutions and Results"*
+
+## <strong>Teaching Philosophy</strong>
+
+I believe in creating an engaging learning environment where students develop critical thinking skills and gain practical knowledge in economics. My approach emphasizes interactive discussions, real-world applications, and responsive teaching that adapts to student needs.

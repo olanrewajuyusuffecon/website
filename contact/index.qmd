@@ -1,0 +1,23 @@
+---
+title: "Contact Information"
+output: html_document
+---
+
+<!-- Load Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+```{r, echo=FALSE, results='asis'}
+
+<div style="font-family: Arial, sans-serif; font-size: 16px;">
+  <h2>Contact</h2>
+  <p><i class="fas fa-graduation-cap" style="vertical-align:middle; width:20px; height:20px;"></i> <a href="https://scholar.google.com/citations?user=eL92kpYAAAAJ&hl=en">Google Scholar</a></p>
+  <p><img src="https://img.icons8.com/ios-filled/50/000000/email.png" style="vertical-align:middle; width:20px; height:20px;"> <a href="mailto:oyusuff4@student.gsu.edu">oyusuff4@student.gsu.edu</a></p>
+  <p><img src="https://img.icons8.com/ios-filled/50/000000/phone.png" style="vertical-align:middle; width:20px; height:20px;"> 6789142127</p>
+  <p><img src="https://img.icons8.com/ios-filled/50/000000/marker.png" style="vertical-align:middle; width:20px; height:20px;">Department of Economics, 55 Park Place, Atlanta, GA 30302</p>
+  <p><img src="https://img.icons8.com/ios-filled/50/000000/cloud.png" style="vertical-align:middle; width:20px; height:20px;"> <a href="https://bsky.app/profile/olayusuff.bsky.social">Bluesky</a></p>
+  <p><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" style="vertical-align:middle; width:20px; height:20px;"> <a href="https://x.com/olayusuff14">Olanrewaju Yusuff</a></p>
+  <p><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" style="vertical-align:middle; width:20px; height:20px;"> <a href="https://www.linkedin.com/in/olanrewaju-yusuff-58417a19b/">LinkedIn</a></p>
+  <p><img src="https://img.icons8.com/ios-filled/50/000000/github.png" style="vertical-align:middle; width:20px; height:20px;"> <a href="https://github.com/olanrewajuyusuffecon">GitHub</a></p>
+</div>
+
+
