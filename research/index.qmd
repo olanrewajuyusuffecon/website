@@ -8,31 +8,37 @@ title: <strong>Research</strong>
 
 ## <strong>Working Papers</strong>
 
-1. **Unlocking Health Potential: Health Effects of Free Maternal and Child Health Care Program** (with Tejendra Singh)  
+1. **Public Reimbursement Mandates and Healthcare Supply: Evidence from Nurse Midwives** (with Lauren Hoehn-Velasco and Yu-Ting Huang)  
+   *Status: Under review*    
+   [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167)
+
+2. **Unlocking Health Potential: Health Effects of Free Maternal and Child Health Care Program** (with Tejendra Singh)  
    *Status: Under review*  
    [Paper](https://osf.io/preprints/osf/y6wzt)
 
-2. **The Effect of Online Sports Gambling Laws on Time Use** (with Owen Fleming and Tejendra Singh)  
+3. **The Effect of Online Sports Gambling Laws on Time Use** (with Owen Fleming and Tejendra Singh)  
    *Status: Working paper*  
    [Paper](https://osf.io/preprints/osf/nxg6y_v1)
 
-3. **Health Effects of Ambulance Deserts** (with Tejendra Singh)  
+4. **Health Effects of Ambulance Deserts** (with Tejendra Singh)  
    *Status: Working paper*  
    [Paper](https://osf.io/preprints/osf/w23ap_v1)
 
 ## <strong>Work in Progress</strong>
 
-1. **Public Insurance Payment Mandates and Nurse Midwives** (with Lauren Hoehn-Velasco and Yu-Ting Huang)
+1. **Insurance Expansion and Emergency Medical Service Establishments: Evidence from the Affordable Care Act**
 
-2. **Health Effects of Mental Health Treatment Facilities Closures**
 
-3. **Insurance Expansion and Emergency Medical Service Establishments: Evidence from the Affordable Care Act**
+2. **Long Drive to Safety: Health Effects of Losing Access to Stroke Care**
 
-4. **Long Drive to Safety: Health Effects of Losing Access to Stroke Care**
 
-5. **Beyond the Prescription: Does Health Insurance Improve Social and Emotional Well-Being?**
+3. **Health Effects of Mental Health Treatment Facilities Closures**
 
-6. **Hurtful or Helpful? Minimum Wage and Firms Outcomes in Nigeria**
+
+4. **Beyond the Prescription: Does Health Insurance Improve Social and Emotional Well-Being?**
+
+
+5. **Hurtful or Helpful? Minimum Wage and Firms Outcomes in Nigeria**
 
 ## <strong>Publications</strong>
 
