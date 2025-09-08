@@ -1,23 +1,38 @@
 ---
 title: "Contact Information"
-output: html_document
 ---
 
-<!-- Load Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-```{r, echo=FALSE, results='asis'}
+<div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.8;">
 
-<div style="font-family: Arial, sans-serif; font-size: 16px;">
-  <h2>Contact</h2>
-  <p><i class="fas fa-graduation-cap" style="vertical-align:middle; width:20px; height:20px;"></i> <a href="https://scholar.google.com/citations?user=eL92kpYAAAAJ&hl=en">Google Scholar</a></p>
-  <p><img src="https://img.icons8.com/ios-filled/50/000000/email.png" style="vertical-align:middle; width:20px; height:20px;"> <a href="mailto:oyusuff4@student.gsu.edu">oyusuff4@student.gsu.edu</a></p>
-  <p><img src="https://img.icons8.com/ios-filled/50/000000/phone.png" style="vertical-align:middle; width:20px; height:20px;"> 6789142127</p>
-  <p><img src="https://img.icons8.com/ios-filled/50/000000/marker.png" style="vertical-align:middle; width:20px; height:20px;">Department of Economics, 55 Park Place, Atlanta, GA 30302</p>
-  <p><img src="https://img.icons8.com/ios-filled/50/000000/cloud.png" style="vertical-align:middle; width:20px; height:20px;"> <a href="https://bsky.app/profile/olayusuff.bsky.social">Bluesky</a></p>
-  <p><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" style="vertical-align:middle; width:20px; height:20px;"> <a href="https://x.com/olayusuff14">Olanrewaju Yusuff</a></p>
-  <p><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" style="vertical-align:middle; width:20px; height:20px;"> <a href="https://www.linkedin.com/in/olanrewaju-yusuff-58417a19b/">LinkedIn</a></p>
-  <p><img src="https://img.icons8.com/ios-filled/50/000000/github.png" style="vertical-align:middle; width:20px; height:20px;"> <a href="https://github.com/olanrewajuyusuffecon">GitHub</a></p>
+## Contact
+
+<p><i class="fas fa-graduation-cap" style="width:20px; text-align:center;"></i> <a href="https://scholar.google.com/citations?user=eL92kpYAAAAJ&hl=en">Google Scholar</a></p>
+
+<p><i class="fas fa-envelope" style="width:20px; text-align:center;"></i> <a href="mailto:oyusuff4@student.gsu.edu">oyusuff4@student.gsu.edu</a></p>
+
+<p><i class="fas fa-phone" style="width:20px; text-align:center;"></i> (678) 914-2127</p>
+
+<p><i class="fas fa-map-marker-alt" style="width:20px; text-align:center;"></i> Department of Economics, 55 Park Place, Atlanta, GA 30302</p>
+
+<p>🦋 <a href="https://bsky.app/profile/olayusuff.bsky.social">olayusuff.bsky.social</a></p>
+
+
+<p>𝕏 <a href="https://x.com/olayusuff14">@olayusuff14</a></p>
+
+<!-- <p><i class="fas fa-building" style="width:20px; text-align:center;"></i> Office: Room 630</p> -->
+
+<!--## Academic Profiles  -->
+
+<p><i class="fab fa-linkedin" style="width:20px; text-align:center;"></i> <a href="https://www.linkedin.com/in/olanrewaju-yusuff-58417a19b/">LinkedIn</a></p>
+
+<p><i class="fab fa-github" style="width:20px; text-align:center;"></i> <a href="https://github.com/olanrewajuyusuffecon">GitHub</a></p>
+
+<!-- ## Social Media  -->
+
+
+
+
+
 </div>
-
-

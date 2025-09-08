@@ -2,46 +2,122 @@
 title: <strong>Teaching</strong>
 ---
 
+
 ## <strong>Instructor of Record</strong>
+
 **ECON 4350: Economics of Poverty and Public Policy**  
-- Fall 2024
+Fall 2024 | Enrollment: 44 students (75% first-generation college students)
 
-::: {.callout-note appearance="simple"}
-## Teaching Evaluation Highlights
+[Teaching Evaluation Summary](Yusuff_Teaching_Evaluation_Summary.pdf) | [Syllabus](Syllabus_Fall_2024_ECON_4350.pdf) | [Teaching Statement](Yusuff_Teaching_Statement.pdf)
 
-**Average Rating: 4.6/5.0** (Fall 2024)
+<details>
+<summary>More on teaching evaluation summary</summary>
 
-*"Professor Yusuff was incredibly kind, interactive, and helpful. He always looked to our preferences and made sure that we were heard."*
+<br>
 
-*"I truly appreciated how he encouraged us to participate in discussions; he was always eager to hear our ideas and would challenge them further, helping us become more informed."*
+**Teaching Excellence**
 
-**Key Metrics:**
+Overall Rating: **4.6/5.0**  
 
-- Course increased ability to critically evaluate ideas: **4.8/5.0**
-- Created an environment that helped students learn: **4.6/5.0**
-- Course challenged students to think: **4.7/5.0**
-:::
+Student Achievement of Learning Objectives: **4.8/5.0**
+
+Course increased ability to critically evaluate ideas: **4.8/5.0**
+
+Created an environment that helped students learn: **4.6/5.0**
+
+Course challenged students to think: **4.7/5.0**
+
+**Student Feedback:**
+
+> "Professor Yusuff put tremendous effort into finding material that enhanced our learning. He always looked to our preferences and made sure that we were heard."
+
+> "Very knowledgeable in his field, lectures and explanations were clear. He was always open to questions and you could tell that he really wanted to make sure we understood the material."
+
+> "I truly appreciated how he encouraged us to participate in discussions; he was always eager to hear our ideas and would challenge them further, helping us become more informed."
+
+**Course Innovations:**
+- Integrated hands-on data analysis using R and American Community Survey data
+
+- Connected theories to Atlanta neighborhoods (MARTA transit gaps, Atlanta Medical Center closure)
+
+- Implemented peer tutoring system with extra credit incentives
+
+- Provided flexible office hours (virtual and in-person) for working students
+
+**Impact Beyond the Classroom:**
+- Two students gained admission to economics graduate programs with my recommendation letters
+
+- Mentored first-year PhD students preparing for comprehensive exams
+
+- Students applied course concepts to analyze poverty in their home communities
+
+</details>
+
+## <strong>Teaching Interests</strong>
+
+<div style="margin-top: 10px; text-align: justify;">
+Micro/Macro Economics, Health Economics, Public Economics, Urban Economics, Development Economics, Applied Econometrics, Causal Inference, Statistics, Mathematics for Economics, Applied Economic Analysis for Policy. Contact: [oyusuff4@student.gsu.edu](mailto:oyusuff4@student.gsu.edu)
+</div>
+<details>
+<summary>More about my teaching approach</summary>
+
+<div style="margin-top: 10px; text-align: justify;">
+
+I specialize in making complex economic concepts accessible to diverse student populations, particularly first-generation and working students. My experience spans core courses (Principles through Advanced Microeconomics) and specialized fields aligned with my research (Health, Public, and Urban Economics). I am developing innovative courses including "Economics of Health Disparities" and "Applied Economic Analysis for Policy" that bridge rigorous methods with real-world applications. Having taught 75% first-generation students with a 4.6/5.0 rating, I excel at maintaining high standards while providing multiple pathways to success.
+</div>
+</details>
+
+
+## <strong>Teaching Philosophy</strong>
+
+<details>
+<summary>More about my teaching philosophy</summary>
+
+<div style="margin-top: 10px; text-align: justify;">
+
+As a first-generation college student, I understand the transformative power of accessible and engaging education. My teaching approach centers on three principles: **accessibility through relevance**, **active engagement through collaboration**, and **empowerment through mentorship**. I connect economic concepts to students' lived experiences, making abstract theories tangible through local examples and real-world applications. Having taught primarily first-generation and working students at Georgia State University, I've learned that students excel when they see themselves reflected in the material and when multiple pathways to success are provided.
+
+</div>
+
+</details>
+
+
 
 ## <strong>Teaching Assistant</strong>
-1. **Econ 4220: Environmental Economics and Policy**  
-   - Fall 2021
-2. **Econ 2105: Principles of Macroeconomics**  
-   - Spring 2022
+
+1. **Econ 8100: Applied Microeconomic Analysis** (Graduate Level)  
+   Fall 2025
+
+2. **Econ 4300: Economics of Cities**  
+   Spring 2024 & 2025  
+   [Featured in GSU News for innovative virtual exchange with Nile University, Egypt](https://news.gsu.edu/2025/06/10/georgia-state-students-collaborate-in-virtual-exchange-with-students-in-colombia-egypt/)
+
 3. **Econ 2100: Global Economics**  
-   - Fall 2022
-4. **Econ 4300: Economics of Cities**  
-   - Spring 2025
+   Fall 2022–Summer 2025 (multiple sections)
+
+4. **Econ 2105: Principles of Macroeconomics**  
+   Spring 2022
+
+5. **Econ 4220: Environmental Economics and Policy**  
+   Fall 2021
+
+## <strong>Teaching Certification</strong>
+
+**GSU Center for Excellence in Teaching, Learning and Online Education (CETLOE)**
+
+<details>
+<summary>Click to expand</summary>
+
+- Completed Spring 2024
+
+- Training in inclusive pedagogy and evidence-based teaching methods
+
+</details>
 
 ## <strong>Teaching Gallery</strong>
 
 ![Teaching Economics of Poverty and Public Policy](/img/teaching1.jpeg)
-
 *Teaching Economics of Poverty and Public Policy*
 
 ![Class presentations on Economic policies](/img/teaching2.jpeg)
-
-*Group 9 presentations on ``Housing in the United States: Issues, Solutions and Results"*
-
-## <strong>Teaching Philosophy</strong>
-
-I believe in creating an engaging learning environment where students develop critical thinking skills and gain practical knowledge in economics. My approach emphasizes interactive discussions, real-world applications, and responsive teaching that adapts to student needs.
+*Student presentations on "Housing in the United States: Issues, Solutions and Results" - connecting theory to policy*

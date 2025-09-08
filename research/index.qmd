@@ -1,47 +1,60 @@
 ---
 title: <strong>Research</strong>
 ---
+<!--  [Research Statement](Yusuff_Teaching_Evaluation_Summary) -->
 
 ## <strong>Job Market Paper</strong>
 
-**Health Effects of Local and Geographic Access to Mental Health Treatment Facilities**
+[Mental Healthcare Facilities and Mortality: Evidence from Local Access and Insurance Expansion](ola_yusuff_jmp.pdf)
+
+
+<details>
+<summary>Abstract (click to expand)</summary>
+<div style="margin-top: 10px; text-align: justify;">
+
+This paper provides the first causal evidence that mental health treatment facilities reduce mortality. Using within-county variation in facility availability from 1999 to 2016, I find that a 10% increase in facilities reduces mental and behavioral disorder mortality by 2%. Employing Sun and Abraham (2021) heterogeneity-robust estimators, I document three key findings: (1) facility closures cause 10 times larger mortality increases than openings provide benefits, revealing significant market asymmetries; (2) Medicaid expansion amplifies the mortality-reducing effects of facilities by 26%, demonstrating insurance-infrastructure complementarities; and (3) facilities operate through multiple mechanisms including employment creation, disability benefit access, and prescription availability. Effects are strongest among the elderly and less-educated populations. The results indicate that expanding mental health infrastructure, particularly when combined with insurance coverage, represents an effective strategy for addressing the mental health crisis. With mental health conditions costing 4% of global GDP annually, these findings have important implications for healthcare policy.
+
+</div>
+</details>
 
 ## <strong>Working Papers</strong>
 
 1. **Public Reimbursement Mandates and Healthcare Supply: Evidence from Nurse Midwives** (with Lauren Hoehn-Velasco and Yu-Ting Huang)  
    *Status: Under review*    
-   [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167)
+   [SSRN]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167])
 
 2. **Unlocking Health Potential: Health Effects of Free Maternal and Child Health Care Program** (with Tejendra Singh)  
    *Status: Under review*  
-   [Paper](https://osf.io/preprints/osf/y6wzt)
+   [OSF Preprint]([https://osf.io/preprints/osf/y6wzt])
 
 3. **The Effect of Online Sports Gambling Laws on Time Use** (with Owen Fleming and Tejendra Singh)  
    *Status: Working paper*  
-   [Paper](https://osf.io/preprints/osf/nxg6y_v1)
+   [OSF Preprint]([https://osf.io/preprints/osf/nxg6y_v1])
+   
+   *Media: [Investopedia](https://www.investopedia.com/how-sports-betting-is-taking-over-young-mens-time-and-finances-8788230), [Bipolar \& Bipartisan](https://bipolarandbipartisan.substack.com/p/gambling-on-little-league-some-americans)*  
 
 4. **Health Effects of Ambulance Deserts** (with Tejendra Singh)  
    *Status: Working paper*  
-   [Paper](https://osf.io/preprints/osf/w23ap_v1)
+   [OSF Preprint]([https://osf.io/preprints/osf/w23ap_v1])
 
 ## <strong>Work in Progress</strong>
 
 1. **Insurance Expansion and Emergency Medical Service Establishments: Evidence from the Affordable Care Act**
 
-
 2. **Long Drive to Safety: Health Effects of Losing Access to Stroke Care**
-
 
 3. **Health Effects of Mental Health Treatment Facilities Closures**
 
-
 4. **Beyond the Prescription: Does Health Insurance Improve Social and Emotional Well-Being?**
 
+5. **Hurtful or Helpful? Minimum Wage and Firm Outcomes in Nigeria**
 
-5. **Hurtful or Helpful? Minimum Wage and Firms Outcomes in Nigeria**
+## <strong>Pre-Doctoral Publications</strong>
 
-## <strong>Publications</strong>
+1. **Factors influencing choice of healthcare facilities utilisation by rural households in Ogun State, Nigeria** (with K. Aboaba, A. Akamo, T. Obalola, O.A. Bankole, A.O. Oladele)  
+   *Agricultura Tropica et Subtropica*, 2023  
+   [Paper](https://sciendo.com/article/10.2478/ats-2023-0016)
 
-**Capital Structure and Firm Performance among the listed Agro-Allied Firms in Nigeria** (with Noah Olasehinde)  
-*African Journal of Sustainable Development*, 2020  
-[Paper](https://osf.io/preprints/socarxiv/6jzan_v2) (Pre-Doctoral Work) 
+2. **Capital Structure and Firm Performance among the listed Agro-Allied Firms in Nigeria** (with N. Olasehinde)  
+   *African Journal of Sustainable Development*, 2020  
+   [Paper](https://osf.io/preprints/socarxiv/6jzan_v2)

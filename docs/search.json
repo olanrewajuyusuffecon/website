@@ -4,14 +4,14 @@
     "href": "cv/index.html",
     "title": "Curriculum vitae",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+    "text": "Download current CV"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
-    "text": "Welcome to my website!\nWelcome to my website! I am a Ph.D. candidate in Economics at Georgia State University. My research focuses on Health Economics, Public Economics, and Development Economics, specializing in access to healthcare facilities, utilization, and health outcomes. My job market paper examines the health effects of access to mental health treatment facilities. I previously worked as a Research Assistant at the Centre for Econometrics and Applied Research (CEAR) at the University of Ibadan."
+    "text": "Welcome to my website!\nCurriculum Vitae | Job Market Paper | Research | Teaching\n\nWelcome! I am a Ph.D. candidate in Economics at Georgia State University on the 2025-2026 job market. I am a applied microeconomist with research interest in Health, Public, Labor, and Development Economics. My research examines how access to healthcare infrastructure affects population health, with a focus on access to mental health treatment facilities (JMP), emergency medical services, and maternal healthcare. I combine cutting-edge causal inference methods with novel data from the United States and Nigeria to provide the first causal evidence on these critical policy questions.\nI am also a research assistant at the Center on Health and Homelessness in the School of Public Health at Georgia State University, working on the Program and Process Evaluation’s Evidence Gap Map Project. Previously, I was a Research Assistant at the Centre for Econometric and Allied Research (CEAR) at the University of Ibadan, where I developed expertise in development economics and healthcare systems in Sub-Saharan Africa. Here is my CV\n\nRecent Highlights:\n\nRecipient of the GSU Center for the Economic Analysis of Risk (CEAR) Fellowship (2025-2026)\nSelected for the Institute for Research on Poverty (IRP) Professional Development Training, University of Wisconsin-Madison (2025-2026)"
   },
   {
     "objectID": "photography/index.html",
@@ -25,42 +25,42 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Health Effects of Local and Geographic Access to Mental Health Treatment Facilities"
+    "text": "Mental Healthcare Facilities and Mortality: Evidence from Local Access and Insurance Expansion\n\n\nAbstract (click to expand)\n\n\nThis paper provides the first causal evidence that mental health treatment facilities reduce mortality. Using within-county variation in facility availability from 1999 to 2016, I find that a 10% increase in facilities reduces mental and behavioral disorder mortality by 2%. Employing Sun and Abraham (2021) heterogeneity-robust estimators, I document three key findings: (1) facility closures cause 10 times larger mortality increases than openings provide benefits, revealing significant market asymmetries; (2) Medicaid expansion amplifies the mortality-reducing effects of facilities by 26%, demonstrating insurance-infrastructure complementarities; and (3) facilities operate through multiple mechanisms including employment creation, disability benefit access, and prescription availability. Effects are strongest among the elderly and less-educated populations. The results indicate that expanding mental health infrastructure, particularly when combined with insurance coverage, represents an effective strategy for addressing the mental health crisis. With mental health conditions costing 4% of global GDP annually, these findings have important implications for healthcare policy."
   },
   {
     "objectID": "research/index.html#job-market-paper",
     "href": "research/index.html#job-market-paper",
     "title": "Research",
     "section": "",
-    "text": "Health Effects of Local and Geographic Access to Mental Health Treatment Facilities"
+    "text": "Mental Healthcare Facilities and Mortality: Evidence from Local Access and Insurance Expansion\n\n\nAbstract (click to expand)\n\n\nThis paper provides the first causal evidence that mental health treatment facilities reduce mortality. Using within-county variation in facility availability from 1999 to 2016, I find that a 10% increase in facilities reduces mental and behavioral disorder mortality by 2%. Employing Sun and Abraham (2021) heterogeneity-robust estimators, I document three key findings: (1) facility closures cause 10 times larger mortality increases than openings provide benefits, revealing significant market asymmetries; (2) Medicaid expansion amplifies the mortality-reducing effects of facilities by 26%, demonstrating insurance-infrastructure complementarities; and (3) facilities operate through multiple mechanisms including employment creation, disability benefit access, and prescription availability. Effects are strongest among the elderly and less-educated populations. The results indicate that expanding mental health infrastructure, particularly when combined with insurance coverage, represents an effective strategy for addressing the mental health crisis. With mental health conditions costing 4% of global GDP annually, these findings have important implications for healthcare policy."
   },
   {
     "objectID": "research/index.html#working-papers",
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "Working Papers",
-    "text": "Working Papers\n\nPublic Reimbursement Mandates and Healthcare Supply: Evidence from Nurse Midwives (with Lauren Hoehn-Velasco and Yu-Ting Huang)\nStatus: Under review\nPaper\nUnlocking Health Potential: Health Effects of Free Maternal and Child Health Care Program (with Tejendra Singh)\nStatus: Under review\nPaper\nThe Effect of Online Sports Gambling Laws on Time Use (with Owen Fleming and Tejendra Singh)\nStatus: Working paper\nPaper\nHealth Effects of Ambulance Deserts (with Tejendra Singh)\nStatus: Working paper\nPaper"
+    "text": "Working Papers\n\nPublic Reimbursement Mandates and Healthcare Supply: Evidence from Nurse Midwives (with Lauren Hoehn-Velasco and Yu-Ting Huang)\nStatus: Under review\nSSRN\nUnlocking Health Potential: Health Effects of Free Maternal and Child Health Care Program (with Tejendra Singh)\nStatus: Under review\nOSF Preprint\nThe Effect of Online Sports Gambling Laws on Time Use (with Owen Fleming and Tejendra Singh)\nStatus: Working paper\nOSF Preprint\nMedia: Investopedia, Bipolar & Bipartisan\nHealth Effects of Ambulance Deserts (with Tejendra Singh)\nStatus: Working paper\nOSF Preprint"
   },
   {
     "objectID": "research/index.html#work-in-progress",
     "href": "research/index.html#work-in-progress",
     "title": "Research",
     "section": "Work in Progress",
-    "text": "Work in Progress\n\nInsurance Expansion and Emergency Medical Service Establishments: Evidence from the Affordable Care Act\nLong Drive to Safety: Health Effects of Losing Access to Stroke Care\nHealth Effects of Mental Health Treatment Facilities Closures\nBeyond the Prescription: Does Health Insurance Improve Social and Emotional Well-Being?\nHurtful or Helpful? Minimum Wage and Firms Outcomes in Nigeria"
+    "text": "Work in Progress\n\nInsurance Expansion and Emergency Medical Service Establishments: Evidence from the Affordable Care Act\nLong Drive to Safety: Health Effects of Losing Access to Stroke Care\nHealth Effects of Mental Health Treatment Facilities Closures\nBeyond the Prescription: Does Health Insurance Improve Social and Emotional Well-Being?\nHurtful or Helpful? Minimum Wage and Firm Outcomes in Nigeria"
   },
   {
-    "objectID": "research/index.html#publications",
-    "href": "research/index.html#publications",
+    "objectID": "research/index.html#pre-doctoral-publications",
+    "href": "research/index.html#pre-doctoral-publications",
     "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nCapital Structure and Firm Performance among the listed Agro-Allied Firms in Nigeria (with Noah Olasehinde)\nAfrican Journal of Sustainable Development, 2020\nPaper (Pre-Doctoral Work)"
+    "section": "Pre-Doctoral Publications",
+    "text": "Pre-Doctoral Publications\n\nFactors influencing choice of healthcare facilities utilisation by rural households in Ogun State, Nigeria (with K. Aboaba, A. Akamo, T. Obalola, O.A. Bankole, A.O. Oladele)\nAgricultura Tropica et Subtropica, 2023\nPaper\nCapital Structure and Firm Performance among the listed Agro-Allied Firms in Nigeria (with N. Olasehinde)\nAfrican Journal of Sustainable Development, 2020\nPaper"
   },
   {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
+    "objectID": "contact/index.html#contact",
+    "href": "contact/index.html#contact",
     "title": "Contact Information",
-    "section": "",
-    "text": "Contact\n\n\n Google Scholar\n\n\n oyusuff4@student.gsu.edu\n\n\n 6789142127\n\n\nDepartment of Economics, 55 Park Place, Atlanta, GA 30302\n\n\n Bluesky\n\n\n Olanrewaju Yusuff\n\n\n LinkedIn\n\n\n GitHub"
+    "section": "Contact",
+    "text": "Contact\n\n Google Scholar\n\n\n oyusuff4@student.gsu.edu\n\n\n (678) 914-2127\n\n\n Department of Economics, 55 Park Place, Atlanta, GA 30302\n\n\n🦋 olayusuff.bsky.social\n\n\n𝕏 @olayusuff14\n\n\n\n\n LinkedIn\n\n\n GitHub"
   },
   {
     "objectID": "projects/index.html",
@@ -88,34 +88,48 @@
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "ECON 4350: Economics of Poverty and Public Policy\n- Fall 2024\n\n\n\n\n\n\nTeaching Evaluation Highlights\n\n\n\nAverage Rating: 4.6/5.0 (Fall 2024)\n“Professor Yusuff was incredibly kind, interactive, and helpful. He always looked to our preferences and made sure that we were heard.”\n“I truly appreciated how he encouraged us to participate in discussions; he was always eager to hear our ideas and would challenge them further, helping us become more informed.”\nKey Metrics:\n\nCourse increased ability to critically evaluate ideas: 4.8/5.0\nCreated an environment that helped students learn: 4.6/5.0\nCourse challenged students to think: 4.7/5.0"
+    "text": "ECON 4350: Economics of Poverty and Public Policy\nFall 2024 | Enrollment: 44 students (75% first-generation college students)\nTeaching Evaluation Summary | Syllabus | Teaching Statement\n\n\nMore on teaching evaluation summary\n\n\nTeaching Excellence\nOverall Rating: 4.6/5.0\nStudent Achievement of Learning Objectives: 4.8/5.0\nCourse increased ability to critically evaluate ideas: 4.8/5.0\nCreated an environment that helped students learn: 4.6/5.0\nCourse challenged students to think: 4.7/5.0\nStudent Feedback:\n\n“Professor Yusuff put tremendous effort into finding material that enhanced our learning. He always looked to our preferences and made sure that we were heard.”\n\n\n“Very knowledgeable in his field, lectures and explanations were clear. He was always open to questions and you could tell that he really wanted to make sure we understood the material.”\n\n\n“I truly appreciated how he encouraged us to participate in discussions; he was always eager to hear our ideas and would challenge them further, helping us become more informed.”\n\nCourse Innovations: - Integrated hands-on data analysis using R and American Community Survey data\n\nConnected theories to Atlanta neighborhoods (MARTA transit gaps, Atlanta Medical Center closure)\nImplemented peer tutoring system with extra credit incentives\nProvided flexible office hours (virtual and in-person) for working students\n\nImpact Beyond the Classroom: - Two students gained admission to economics graduate programs with my recommendation letters\n\nMentored first-year PhD students preparing for comprehensive exams\nStudents applied course concepts to analyze poverty in their home communities"
   },
   {
     "objectID": "teaching/index.html#instructor-of-record",
     "href": "teaching/index.html#instructor-of-record",
     "title": "Teaching",
     "section": "",
-    "text": "ECON 4350: Economics of Poverty and Public Policy\n- Fall 2024\n\n\n\n\n\n\nTeaching Evaluation Highlights\n\n\n\nAverage Rating: 4.6/5.0 (Fall 2024)\n“Professor Yusuff was incredibly kind, interactive, and helpful. He always looked to our preferences and made sure that we were heard.”\n“I truly appreciated how he encouraged us to participate in discussions; he was always eager to hear our ideas and would challenge them further, helping us become more informed.”\nKey Metrics:\n\nCourse increased ability to critically evaluate ideas: 4.8/5.0\nCreated an environment that helped students learn: 4.6/5.0\nCourse challenged students to think: 4.7/5.0"
+    "text": "ECON 4350: Economics of Poverty and Public Policy\nFall 2024 | Enrollment: 44 students (75% first-generation college students)\nTeaching Evaluation Summary | Syllabus | Teaching Statement\n\n\nMore on teaching evaluation summary\n\n\nTeaching Excellence\nOverall Rating: 4.6/5.0\nStudent Achievement of Learning Objectives: 4.8/5.0\nCourse increased ability to critically evaluate ideas: 4.8/5.0\nCreated an environment that helped students learn: 4.6/5.0\nCourse challenged students to think: 4.7/5.0\nStudent Feedback:\n\n“Professor Yusuff put tremendous effort into finding material that enhanced our learning. He always looked to our preferences and made sure that we were heard.”\n\n\n“Very knowledgeable in his field, lectures and explanations were clear. He was always open to questions and you could tell that he really wanted to make sure we understood the material.”\n\n\n“I truly appreciated how he encouraged us to participate in discussions; he was always eager to hear our ideas and would challenge them further, helping us become more informed.”\n\nCourse Innovations: - Integrated hands-on data analysis using R and American Community Survey data\n\nConnected theories to Atlanta neighborhoods (MARTA transit gaps, Atlanta Medical Center closure)\nImplemented peer tutoring system with extra credit incentives\nProvided flexible office hours (virtual and in-person) for working students\n\nImpact Beyond the Classroom: - Two students gained admission to economics graduate programs with my recommendation letters\n\nMentored first-year PhD students preparing for comprehensive exams\nStudents applied course concepts to analyze poverty in their home communities"
   },
   {
-    "objectID": "teaching/index.html#teaching-assistant",
-    "href": "teaching/index.html#teaching-assistant",
+    "objectID": "teaching/index.html#teaching-interests",
+    "href": "teaching/index.html#teaching-interests",
     "title": "Teaching",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\n\nEcon 4220: Environmental Economics and Policy\n\nFall 2021\n\nEcon 2105: Principles of Macroeconomics\n\nSpring 2022\n\nEcon 2100: Global Economics\n\nFall 2022\n\nEcon 4300: Economics of Cities\n\nSpring 2025"
-  },
-  {
-    "objectID": "teaching/index.html#teaching-gallery",
-    "href": "teaching/index.html#teaching-gallery",
-    "title": "Teaching",
-    "section": "Teaching Gallery",
-    "text": "Teaching Gallery\n\n\n\nTeaching Economics of Poverty and Public Policy\n\n\nTeaching Economics of Poverty and Public Policy\n\n\n\nClass presentations on Economic policies\n\n\nGroup 9 presentations on ``Housing in the United States: Issues, Solutions and Results”"
+    "section": "Teaching Interests",
+    "text": "Teaching Interests\n\nMicro/Macro Economics, Health Economics, Public Economics, Urban Economics, Development Economics, Applied Econometrics, Causal Inference, Statistics, Mathematics for Economics, Applied Economic Analysis for Policy. Contact: oyusuff4@student.gsu.edu\n\n\n\nMore about my teaching approach\n\n\nI specialize in making complex economic concepts accessible to diverse student populations, particularly first-generation and working students. My experience spans core courses (Principles through Advanced Microeconomics) and specialized fields aligned with my research (Health, Public, and Urban Economics). I am developing innovative courses including “Economics of Health Disparities” and “Applied Economic Analysis for Policy” that bridge rigorous methods with real-world applications. Having taught 75% first-generation students with a 4.6/5.0 rating, I excel at maintaining high standards while providing multiple pathways to success."
   },
   {
     "objectID": "teaching/index.html#teaching-philosophy",
     "href": "teaching/index.html#teaching-philosophy",
     "title": "Teaching",
     "section": "Teaching Philosophy",
-    "text": "Teaching Philosophy\nI believe in creating an engaging learning environment where students develop critical thinking skills and gain practical knowledge in economics. My approach emphasizes interactive discussions, real-world applications, and responsive teaching that adapts to student needs."
+    "text": "Teaching Philosophy\n\n\nMore about my teaching philosophy\n\n\nAs a first-generation college student, I understand the transformative power of accessible and engaging education. My teaching approach centers on three principles: accessibility through relevance, active engagement through collaboration, and empowerment through mentorship. I connect economic concepts to students’ lived experiences, making abstract theories tangible through local examples and real-world applications. Having taught primarily first-generation and working students at Georgia State University, I’ve learned that students excel when they see themselves reflected in the material and when multiple pathways to success are provided."
+  },
+  {
+    "objectID": "teaching/index.html#teaching-assistant",
+    "href": "teaching/index.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nEcon 8100: Applied Microeconomic Analysis (Graduate Level)\nFall 2025\nEcon 4300: Economics of Cities\nSpring 2024 & 2025\nFeatured in GSU News for innovative virtual exchange with Nile University, Egypt\nEcon 2100: Global Economics\nFall 2022–Summer 2025 (multiple sections)\nEcon 2105: Principles of Macroeconomics\nSpring 2022\nEcon 4220: Environmental Economics and Policy\nFall 2021"
+  },
+  {
+    "objectID": "teaching/index.html#teaching-certification",
+    "href": "teaching/index.html#teaching-certification",
+    "title": "Teaching",
+    "section": "Teaching Certification",
+    "text": "Teaching Certification\nGSU Center for Excellence in Teaching, Learning and Online Education (CETLOE)\n\n\nClick to expand\n\n\nCompleted Spring 2024\nTraining in inclusive pedagogy and evidence-based teaching methods"
+  },
+  {
+    "objectID": "teaching/index.html#teaching-gallery",
+    "href": "teaching/index.html#teaching-gallery",
+    "title": "Teaching",
+    "section": "Teaching Gallery",
+    "text": "Teaching Gallery\n Teaching Economics of Poverty and Public Policy\n Student presentations on “Housing in the United States: Issues, Solutions and Results” - connecting theory to policy"
   }
 ]

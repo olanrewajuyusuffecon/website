@@ -4,7 +4,7 @@
 # website settings
 website:
   title: "Olanrewaju Yusuff"                                # Your name
-  description: "Welcome to my website! I am a Ph.D. candidate in Economics at Georgia State University. My research focuses on Health Economics, Public Economics, and Development Economics, specializing in healthcare accessibility, utilization, and outcomes. My job market paper examines the health effects of access to mental health treatment facilities.
+  description: "I am a Ph.D. candidate in [Economics](https://aysps.gsu.edu/economics/) at [Georgia State University](https://www.gsu.edu/). My research focuses on Health Economics, Public Economics, and Development Economics, specializing in healthcare accessibility, utilization, and outcomes. My job market paper examines the health effects of access to mental health treatment facilities.
 I previously worked as a Research Assistant at the [Centre for Econometrics and Applied Research (CEAR)](https://www.linkedin.com/company/centre-for-econometrics-and-applied-research/posts/?feedView=all) at the University of Ibadan."   # A brief slogan (optional)
   image: img/my_image.jpg
   
@@ -48,11 +48,11 @@ I previously worked as a Research Assistant at the [Centre for Econometrics and 
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+      <span class="faux-block">&#169; 2025 Olanrewaju Yusuff</span>
     center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+      <span class="faux-block">PhD Candidate in Economics | Georgia State University</span>
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block">On the Job Market 2025-2026</span>
 
 project:
   type: website

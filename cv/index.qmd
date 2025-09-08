@@ -9,6 +9,7 @@ resources:
   - "cv.pdf"
 cv:
   pdf: "cv.pdf"
+  
 ---
 
 ```{css echo=FALSE}
@@ -28,10 +29,4 @@ cv:
     width: 100%;
     height: 100%;
 }
-```
-
-
-
-
-
 
