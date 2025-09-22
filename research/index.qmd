@@ -18,24 +18,20 @@ This paper provides the first causal evidence that mental health treatment facil
 </details>
 
 ## <strong>Working Papers</strong>
-
-1. **Public Reimbursement Mandates and Healthcare Supply: Evidence from Nurse Midwives** (with Lauren Hoehn-Velasco and Yu-Ting Huang)  
+1. **Public Payment Mandates and Provider Supply** (with Lauren Hoehn-Velasco and Yu-Ting Huang)  
    *Status: Under review*    
-   [SSRN]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167])
-
+   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167)
 2. **Unlocking Health Potential: Health Effects of Free Maternal and Child Health Care Program** (with Tejendra Singh)  
    *Status: Under review*  
-   [OSF Preprint]([https://osf.io/preprints/osf/y6wzt])
-
+   [OSF Preprint](https://osf.io/preprints/osf/y6wzt)
 3. **The Effect of Online Sports Gambling Laws on Time Use** (with Owen Fleming and Tejendra Singh)  
    *Status: Working paper*  
-   [OSF Preprint]([https://osf.io/preprints/osf/nxg6y_v1])
+   [OSF Preprint](https://osf.io/preprints/osf/nxg6y_v1)
    
    *Media: [Investopedia](https://www.investopedia.com/how-sports-betting-is-taking-over-young-mens-time-and-finances-8788230), [Bipolar \& Bipartisan](https://bipolarandbipartisan.substack.com/p/gambling-on-little-league-some-americans)*  
-
 4. **Health Effects of Ambulance Deserts** (with Tejendra Singh)  
    *Status: Working paper*  
-   [OSF Preprint]([https://osf.io/preprints/osf/w23ap_v1])
+   [OSF Preprint](https://osf.io/preprints/osf/w23ap_v1)
 
 ## <strong>Work in Progress</strong>
 
