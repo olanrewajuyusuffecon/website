@@ -20,7 +20,7 @@ This paper provides the first causal evidence that mental health treatment facil
 ## <strong>Working Papers</strong>
 1. **Public Payment Mandates and Provider Supply** (with Lauren Hoehn-Velasco and Yu-Ting Huang)  
    *Status: Under review*    
-   [IZA Discussion Paper 18149](https://www.iza.org/publications/dp/18149/) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167)
+   [IZA Discussion Paper 18149](https://docs.iza.org/dp18149.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167)
 2. **Unlocking Health Potential: Health Effects of Free Maternal and Child Health Care Program** (with Tejendra Singh)  
    *Status: Under review*  
    [OSF Preprint](https://osf.io/preprints/osf/y6wzt)
