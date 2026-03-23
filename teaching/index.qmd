@@ -74,9 +74,14 @@ I specialize in making complex economic concepts accessible to diverse student p
 
 1. **Facilitator: Introduction to Causal Inference and Applied Microeconometrics**  
 Workshop for African Researchers and Students | Virtual | May 24, 2025  
-Organized by Omolola Akinde-Fasasi
+Organized by Omolola AK-Fasasi (Nee Lipede)
 
 [Lecture Slides](Causal_Inference_Workshop_Slides_2025.pdf) | [Workshop Flyer](https://www.linkedin.com/posts/olanrewaju-yusuff-58417a19b_are-you-eager-to-understand-how-data-shapes-activity-7331367286265552898-HtyG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7VObQBqDvdItz2pFslVXEbUBKn9JM_ngU) | [Workshop Recap](https://www.linkedin.com/posts/omolola-ak-fasasi-nee-lipede_research-omololaakfasasi-ugcPost-7332512758720008192-nCMl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7VObQBqDvdItz2pFslVXEbUBKn9JM_ngU)
+
+2. **Facilitator: Introduction to Difference-in-Differences (DiD)**  
+   QuantBridge Applied Quantitative Webinar Series | Virtual | February 7, 2026  
+   Organized by Kingsford Onyina, Vanessa Owusu Ansah, and Danny Turkson.  
+   [Workshop Flyer](https://www.linkedin.com/posts/olanrewaju-yusuff-58417a19b_hello-family-the-year-is-off-to-a-activity-7423744332098318336-sq7s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7VObQBqDvdItz2pFslVXEbUBKn9JM_ngU) | [Workshop Recording](https://www.youtube.com/watch?v=gd83ryRqXV4) | [Workshop Recap](https://www.linkedin.com/posts/konyina_introduction-to-difference-in-differences-activity-7426659388637118464-NpMX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7VObQBqDvdItz2pFslVXEbUBKn9JM_ngU)
 
 
 <details>
@@ -110,20 +115,26 @@ As a first-generation college student, I understand the transformative power of 
 
 ## <strong>Teaching Assistant</strong>
 
-1. **Econ 8100: Applied Microeconomic Analysis** (Graduate Level)  
+1. **Econ 9030: Microeconomic Analysis II (Ph.D.) **  
+   Spring 2026
+
+2. **ECON 4100: Economics, Philosophy and Public Policy**  
+   Spring 2026  
+
+3. **Econ 8100: Applied Microeconomic Analysis** (Graduate Level)  
    Fall 2025
 
-2. **Econ 4300: Economics of Cities**  
+4. **Econ 4300: Economics of Cities**  
    Spring 2024 & 2025  
    [Featured in GSU News for innovative virtual exchange with Nile University, Egypt](https://news.gsu.edu/2025/06/10/georgia-state-students-collaborate-in-virtual-exchange-with-students-in-colombia-egypt/)
 
-3. **Econ 2100: Global Economics**  
+5. **Econ 2100: Global Economics**  
    Fall 2022–Summer 2025 (multiple sections)
 
-4. **Econ 2105: Principles of Macroeconomics**  
+6. **Econ 2105: Principles of Macroeconomics**  
    Spring 2022
 
-5. **Econ 4220: Environmental Economics and Policy**  
+7. **Econ 4220: Environmental Economics and Policy**  
    Fall 2021
 
 ## <strong>Teaching Certification</strong>
