@@ -81,7 +81,8 @@ Organized by Omolola AK-Fasasi (Nee Lipede)
 2. **Facilitator: Introduction to Difference-in-Differences (DiD)**  
    QuantBridge Applied Quantitative Webinar Series | Virtual | February 7, 2026  
    Organized by Kingsford Onyina, Vanessa Owusu Ansah, and Danny Turkson.  
-   [Workshop Flyer](https://www.linkedin.com/posts/olanrewaju-yusuff-58417a19b_hello-family-the-year-is-off-to-a-activity-7423744332098318336-sq7s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7VObQBqDvdItz2pFslVXEbUBKn9JM_ngU) | [Workshop Recording](https://www.youtube.com/watch?v=gd83ryRqXV4) | [Workshop Recap](https://www.linkedin.com/posts/konyina_introduction-to-difference-in-differences-activity-7426659388637118464-NpMX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7VObQBqDvdItz2pFslVXEbUBKn9JM_ngU)
+   
+[Workshop Flyer](https://www.linkedin.com/posts/olanrewaju-yusuff-58417a19b_hello-family-the-year-is-off-to-a-activity-7423744332098318336-sq7s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7VObQBqDvdItz2pFslVXEbUBKn9JM_ngU) | [Workshop Recording](https://www.youtube.com/watch?v=gd83ryRqXV4) | [Workshop Recap](https://www.linkedin.com/posts/konyina_introduction-to-difference-in-differences-activity-7426659388637118464-NpMX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7VObQBqDvdItz2pFslVXEbUBKn9JM_ngU)
 
 
 <details>
@@ -89,7 +90,7 @@ Organized by Omolola AK-Fasasi (Nee Lipede)
 
 <div style="margin-top: 10px; text-align: justify;">
 
-Designed and delivered comprehensive workshop on modern causal inference methods for 35+ researchers and students across Africa. Covered difference-in-differences estimation, instrumental variables approaches, and regression discontinuity designs with practical applications to development economics and policy evaluation. Workshop materials have been requested by researchers across multiple African countries and are now publicly available to support quantitative research capacity building in the Global South.
+Designed and delivered comprehensive workshops on modern causal inference methods for 90+ researchers and students across Africa and globally. Covered difference-in-differences estimation, instrumental variables approaches, and regression discontinuity designs with practical applications to development economics and policy evaluation. Workshop materials have been requested by researchers across multiple countries and are now publicly available to support quantitative research capacity building in the Global South.
 
 </div>
 </details>
