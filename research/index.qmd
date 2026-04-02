@@ -39,15 +39,18 @@ mortality by 0.5% and MBD mortality by 2%. Three key findings emerge: (1) facili
 1. **Public Payment Mandates and Provider Supply** (with [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/) and [Yu-Ting Huang](https://reinayutinghuang.com/))  
    *Status: Revise and Resubmit, American Journal of Health Economics*    
    [IZA Discussion Paper 18149](https://docs.iza.org/dp18149.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167)
-2. **Unlocking Health Potential: Health Effects of Free Maternal and Child Health Care Program** (with Tejendra Singh)  
+2. **Can Higher Education Stimulate Local Economic Development? The Labor Market Impacts of Federal University Expansion in Nigeria** (with [Godwin Aipoh](https://www.godwinaipoh.com/home))  
+   *Status: Revise and Resubmit, Journal of African Economies*  
+   [Annenberg EdWorkingPaper](https://edworkingpapers.com/sites/default/files/ai25-1321.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5575331)
+3. **Unlocking Health Potential: Health Effects of Free Maternal and Child Health Care Program** (with Tejendra Singh)  
    *Status: Under review*  
    [OSF Preprint](https://osf.io/preprints/osf/y6wzt)
-3. **The Effect of Online Sports Gambling Laws on Time Use** (with [Owen Fleming](https://www.omfleming.com/) and Tejendra Singh)  
+4. **The Effect of Online Sports Gambling Laws on Time Use** (with [Owen Fleming](https://www.omfleming.com/) and Tejendra Singh)  
    *Status: Working paper*  
    [OSF Preprint](https://osf.io/preprints/osf/nxg6y_v1)
    
    *Media: [Investopedia](https://www.investopedia.com/how-sports-betting-is-taking-over-young-mens-time-and-finances-8788230), [Bipolar \& Bipartisan](https://bipolarandbipartisan.substack.com/p/gambling-on-little-league-some-americans)*  
-4. **Health Effects of Ambulance Deserts** (with Tejendra Singh)  
+5. **Health Effects of Ambulance Deserts** (with Tejendra Singh)  
    *Status: Working paper*  
    [OSF Preprint](https://osf.io/preprints/osf/w23ap_v1)
 
@@ -59,7 +62,7 @@ mortality by 0.5% and MBD mortality by 2%. Three key findings emerge: (1) facili
 
 3. **Beyond the Prescription: Does Health Insurance Improve Social and Emotional Well-Being?**
 
-4. **Higher Education as Regional Development: Labor Market Impacts of Nigeria’s 2011 Federal University Expansion** (with Godwin Aipoh) 
+<!-- 4. **Higher Education as Regional Development: Labor Market Impacts of Nigeria’s 2011 Federal University Expansion** (with Godwin Aipoh) -->
 
 <!-- 3. **Health Effects of Mental Health Treatment Facilities Closures** -->
 
