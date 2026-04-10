@@ -27,9 +27,22 @@ about:
 
 <div style="margin-top: 10px; text-align: justify;">
 
-Welcome! I am a Ph.D. candidate in the [Department of Economics](https://aysps.gsu.edu/economics/) at [Georgia State University](https://www.gsu.edu/) on the 2025-2026 job market. I am an applied microeconomist with research interests in **Health, Public, Labor, and Development Economics**. My research examines how access to healthcare infrastructure affects population health, with a focus on access to mental health treatment facilities (JMP), emergency medical services, and maternal healthcare. I combine cutting-edge causal inference methods with novel data from the United States and Nigeria to provide the first causal evidence on these critical policy questions. 
+Welcome! I am a Ph.D. candidate in the Department of Economics at Georgia State 
+University, advised by Professors [James Marton](https://aysps.gsu.edu/profile/james-marton/), 
+[Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/), 
+[Keith Teltser](https://sites.google.com/site/kteltser), and 
+[Ann DiGirolamo](https://ghpc.gsu.edu/profile/ann-digirolamo-2/). I am on the 
+2025-2026 job market.
 
-I am also a research assistant at the [Center on Health and Homelessness](https://chh.gsu.edu/) in the [School of Public Health](https://publichealth.gsu.edu/) at [Georgia State University](https://www.gsu.edu/), working on the **Program and Process Evaluation's Evidence Gap Map Project**. Previously, I was a Research Assistant at the [Centre for Econometric and Allied Research (CEAR)](https://www.linkedin.com/company/centre-for-econometrics-and-applied-research/posts/?feedView=all) at the University of Ibadan, where I developed expertise in development economics and healthcare systems in Sub-Saharan Africa. Here is my [CV](cv/cv.pdf), and you can reach out to me at [oyusuff4@student.gsu.edu](mailto:oyusuff4@student.gsu.edu).
+I am an applied microeconomist with research interests in Health, Public, Labor, 
+and Development Economics. My research examines how access to healthcare 
+infrastructure affects population health, with a focus on access to mental health 
+treatment facilities (JMP), emergency medical services, and maternal healthcare. 
+I combine cutting-edge causal inference methods with novel data from the United 
+States and Nigeria to provide the first causal evidence on these critical policy 
+questions.
+
+I am also a research assistant at the [Center on Health and Homelessness](https://chh.gsu.edu/) in the [School of Public Health](https://publichealth.gsu.edu/) at [Georgia State University](https://www.gsu.edu/), working on the **Program and Process Evaluation's Evidence Gap Map Project** for Professor [Shannon Self-Brown](https://publichealth.gsu.edu/profile/shannon-self-brown/). Previously, I was a Research Assistant at the [Centre for Econometric and Allied Research (CEAR)](https://www.linkedin.com/company/centre-for-econometrics-and-applied-research/posts/?feedView=all) at the University of Ibadan, where I developed expertise in development economics and healthcare systems in Sub-Saharan Africa. Here is my [CV](cv/cv.pdf), and you can reach out to me at [oyusuff4@student.gsu.edu](mailto:oyusuff4@student.gsu.edu).
 
 </div>
 
@@ -48,7 +61,10 @@ I am also a research assistant at the [Center on Health and Homelessness](https:
 - Recipient of [Association for Public Policy & Management Equity & Inclusion Fellowship](https://www.appam.org/about-appam/awards/2025-equity-inclusion-fellowship-student-recipients/) (2025)
 
 
-- Recipient of the [Association for Mentoring & Inclusion in Economics Fellowship](https://econmentoring.org/mentees/yusuff-olanrewaju/) (2025)
+- Recipient of the [Association for Mentoring & Inclusion in Economics Fellowship](https://econmentoring.org/mentees/yusuff-olanrewaju/) 
+  (2025), mentored by [Ellen McCullough](http://www.ellenmccullough.com/) 
+  (University of Georgia) and [Leah Lakdawala](https://leahlakdawala.weebly.com/) 
+  (Wake Forest University)
 
 
 - Listed on the [AEA CSMGEP Minority Job Market Candidates 2025-26](https://www.aeaweb.org/about-aea/committees/csmgep/market)
