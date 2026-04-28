@@ -15,7 +15,16 @@ title: <strong>Research</strong>
 Do mental health treatment facilities save lives? Using County Business Patterns data (1999-2016) and within-county variation, I provide the first causal evidence that mental health infrastructure reduces mortality broadly. Each additional facility prevents 1.56 deaths per 100,000 residents from all causes annually, with mental and behavioral disorder (MBD) mortality declining by 0.079%. A 10% increase in facilities lowers overall
 mortality by 0.5% and MBD mortality by 2%. Three key findings emerge: (1) facility closures increase mortality ten times more than openings reduce it, revealing asymmetries with welfare implications; (2) Medicaid expansion amplifies facility effectiveness by 26% in high-uninsurance counties, demonstrating that insurance and infrastructure are complements, not substitutes; (3) facilities operate through multiple mechanisms beyond direct treatment, serving as gateways to disability programs and enabling pharmaceutical access. Effects concentrate among elderly and less-educated populations who face the highest access barriers. Event studies using the Sun and Abraham (2021) estimator show immediate, persistent effects with no pre-trends. The benefit-cost ratio exceeds 4-to-1, with each facility generating $11.7 million in annual net benefits. Results indicate that neither insurance expansion nor infrastructure investment alone maximizes health benefits; coordinated policies addressing both dimensions are essential for reducing mortality.
 
+</details>
+
 <details open>
+<summary><strong>Award</strong></summary>
+<div style="margin-top: 10px;">
+🏆 [2026 American Society of Health Economists (ASHEcon) Program Chair Award Award Winner, Mental and Behavioral Health](https://www.ashecon.org/2026-ashecon-award-winners/)
+</div>
+</details>
+
+<details>
 <summary><strong>Presentations</strong></summary>
 <div style="margin-top: 10px;">
 
@@ -28,12 +37,14 @@ mortality by 0.5% and MBD mortality by 2%. Three key findings emerge: (1) facili
 - [American Economic Association Mentoring Program](https://www.aeaweb.org/content/file?id=24283), Chicago, Illinois (August 2025)
 - [American Society of Health Economists Conference](https://ashecon.confex.com/ashecon/2025/meetingapp.cgi/Session/6072), Nashville, TN (June 2025)
 - [Southern Economic Association Annual Meeting](https://southerneconomic.org/wp-content/uploads/2025/12/2025-SEA-Program.pdf), Tampa, FL (November 2025)
+- [ Virtual Economics of Poverty and Policy Seminar (VEPPS)](https://www.lucieschmidt.com/vepps-grad-student-presenters)
 - [Atlanta/Athens Health Economists Group](https://atlathhealthecon.com/meetings/), Atlanta, GA (2024-2025)
 - [Atlanta PhD Student Symposium](https://economics.emory.edu/documents/2025-atl-phd-student-symposium-6-5-2025.pdf), Atlanta, GA (June 2025)
+- [EconNect Africa JMC Symposium (virtual)](https://econnectafrica.net/annual-jmc-symposium), November 2025
 - [Georgia State University Graduate Research Conference](https://graduate.gsu.edu/graduateconference/), Atlanta, GA (2025)
 
 </div>
-</details>
+
 
 ## <strong>Working Papers</strong>
 1. **Public Payment Mandates and Provider Supply** (with [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/) and [Yu-Ting Huang](https://reinayutinghuang.com/))  
