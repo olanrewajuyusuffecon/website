@@ -27,7 +27,7 @@ about:
 
 <div style="margin-top: 10px; text-align: justify;">
 
-Welcome! I am a Ph.D. candidate in the Department of Economics at Georgia State 
+Welcome! I am a [Ph.D. candidate](https://aysps.gsu.edu/phd-student/olanrewaju-yusuff/) in the Department of Economics at Georgia State 
 University, advised by Professors [James Marton](https://aysps.gsu.edu/profile/james-marton/), 
 [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/), 
 [Keith Teltser](https://sites.google.com/site/kteltser), and 
