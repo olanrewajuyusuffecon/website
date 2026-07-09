@@ -23,7 +23,7 @@ about:
 
 # Welcome to my website!
 
-**[Curriculum Vitae](cv/cv.pdf) | [Job Market Paper](research/ola_yusuff_jmp.pdf) | [Research](research/index.qmd) | [Teaching](teaching/index.qmd)**
+**[Curriculum Vitae](cv/cv.pdf) | [Job Market Paper](research/Ola-Yusuff-Mental-Healthcare-Facilities-Mortality.pdf) | [Research](research/index.qmd) | [Teaching](teaching/index.qmd)**
 
 <div style="margin-top: 10px; text-align: justify;">
 
