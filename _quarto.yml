@@ -7,14 +7,14 @@ website:
   description: "I am a Ph.D. candidate in [Economics](https://aysps.gsu.edu/economics/) at [Georgia State University](https://www.gsu.edu/). My research focuses on Health Economics, Public Economics, and Development Economics, specializing in healthcare accessibility, utilization, and outcomes. My job market paper examines the health effects of access to mental health treatment facilities.
 I previously worked as a Research Assistant at the [Centre for Econometrics and Applied Research (CEAR)](https://www.linkedin.com/company/centre-for-econometrics-and-applied-research/posts/?feedView=all) at the University of Ibadan."   # A brief slogan (optional)
   image: img/my_image.jpg
-  
+
   favicon: img/my_image.png
-  
+
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
     logo: /img/logo.png
-    
+
     # your sub-pages
     left:
       - text: "CV"
@@ -27,7 +27,7 @@ I previously worked as a Research Assistant at the [Centre for Econometrics and 
         href: contact/index.qmd
      # - text: "Blog"
       #  href: blog/index.qmd
-    
+
     # your social media handles
     right:
       - icon: google-scholar
@@ -38,27 +38,27 @@ I previously worked as a Research Assistant at the [Centre for Econometrics and 
         href: https://github.com/olanrewajuyusuffecon
       - icon: envelope
         aria-label: email
-        href: "mailto:oyusuff4@student.gsu.edu"  
-  
-  
+        href: "mailto:olanrewajuyusuffecon@gmail.com"
+
+
 
 # Don't touch unless you know what you are doing :) ------------
-  search: 
+  search:
     location: navbar
     type: textbox
-  page-footer: 
+  page-footer:
     left: |
-      <span class="faux-block">&#169; 2025 Olanrewaju Yusuff</span>
+      <span class="faux-block">&#169; 2026 Olanrewaju Yusuff</span>
     center: |
-      <span class="faux-block">PhD Candidate in Economics | Georgia State University</span>
+      <span class="faux-block">PhD in Economics</span>
     right: |
-      <span class="faux-block">On the Job Market 2025-2026</span>
+      <span class="faux-block">Prevention Effectiveness Postdoctoral Fellow | Centers for Disease Control and Prevention</span>
 
 project:
   type: website
   output-dir: docs
 
-  preview: 
+  preview:
     port: 22222
     browser: true
     watch-inputs: true
@@ -72,7 +72,7 @@ execute:
 format:
   html:
     fontsize: 1.1em
-    theme: 
+    theme:
       - pulse
       - html/styles.scss
     toc: false

@@ -10,11 +10,16 @@ title: "Contact Information"
 
 <p><i class="fas fa-graduation-cap" style="width:20px; text-align:center;"></i> <a href="https://scholar.google.com/citations?user=eL92kpYAAAAJ&hl=en">Google Scholar</a></p>
 
-<p><i class="fas fa-envelope" style="width:20px; text-align:center;"></i> <a href="mailto:oyusuff4@student.gsu.edu">oyusuff4@student.gsu.edu</a></p>
+<p><i class="fas fa-envelope" style="width:20px; text-align:center;"></i> <a href="mailto:olanrewajuyusuffecon@gmail.com">olanrewajuyusuffecon@gmail.com</a></p>
 
-<p><i class="fas fa-phone" style="width:20px; text-align:center;"></i> (678) 914-2127</p>
+<!--<p><i class="fas fa-phone" style="width:20px; text-align:center;"></i> (678) 914-2127</p> -->
 
-<p><i class="fas fa-map-marker-alt" style="width:20px; text-align:center;"></i> Department of Economics, 55 Park Place, Atlanta, GA 30302</p>
+<p>
+  <i class="fas fa-map-marker-alt" style="width:20px; text-align:center;"></i>
+  Atlanta, Georgia
+</p>
+
+<!-- <p><i class="fas fa-map-marker-alt" style="width:20px; text-align:center;"></i> Department of Economics, 55 Park Place, Atlanta, GA 30302</p> -->
 
 <p>🦋 <a href="https://bsky.app/profile/olayusuff.bsky.social">olayusuff.bsky.social</a></p>
 

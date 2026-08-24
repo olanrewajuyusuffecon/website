@@ -23,52 +23,51 @@ about:
 
 # Welcome to my website!
 
-**[Curriculum Vitae](cv/cv.pdf) | [Job Market Paper](research/Ola-Yusuff-Mental-Healthcare-Facilities-Mortality.pdf) | [Research](research/index.qmd) | [Teaching](teaching/index.qmd)**
+**[Curriculum Vitae](cv/cv.pdf) | [Research](research/index.qmd) | [Teaching](teaching/index.qmd)**
 
 <div style="margin-top: 10px; text-align: justify;">
 
-Welcome! I am a [Ph.D. candidate](https://aysps.gsu.edu/phd-student/olanrewaju-yusuff/) in the Department of Economics at Georgia State 
-University, advised by Professors [James Marton](https://aysps.gsu.edu/profile/james-marton/), 
-[Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/), 
-[Keith Teltser](https://sites.google.com/site/kteltser), and 
-[Ann DiGirolamo](https://ghpc.gsu.edu/profile/ann-digirolamo-2/). I am on the 
-2025-2026 job market.
+Welcome! I am an incoming [Steven M. Teutsch Prevention Effectiveness Postdoctoral Fellow](https://www.cdc.gov/pef/php/about/index.html) at the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/), where I will be based in the [National Center for Environmental Health](https://www.cdc.gov/nceh/index.html) beginning in September 2026. My research has been recognized with the [2026 ASHEcon Program Chair Award in Mental and Behavioral Health](https://www.ashecon.org/2026-ashecon-award-winners/) and the [2026 Horowitz Foundation for Social Policy Award](https://www.horowitz-foundation.org/2026).
 
-I am an applied microeconomist with research interests in Health, Public, Labor, 
-and Development Economics. My research examines how access to healthcare 
-infrastructure affects population health, with a focus on access to mental health 
-treatment facilities (JMP), emergency medical services, and maternal healthcare. 
-I combine cutting-edge causal inference methods with novel data from the United 
-States and Nigeria to provide the first causal evidence on these critical policy 
-questions.
+I recently earned my Ph.D. in Economics from the [Department of Economics](https://aysps.gsu.edu/economics/) at [Georgia State University](https://www.gsu.edu/). During my doctoral studies, I was advised by Professors [James Marton](https://aysps.gsu.edu/profile/james-marton/), [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/), [Keith Teltser](https://sites.google.com/site/kteltser), and [Ann DiGirolamo](https://ghpc.gsu.edu/profile/ann-digirolamo-2/).
 
-I am also a research assistant at the [Center on Health and Homelessness](https://chh.gsu.edu/) in the [School of Public Health](https://publichealth.gsu.edu/) at [Georgia State University](https://www.gsu.edu/), working on the **Program and Process Evaluation's Evidence Gap Map Project** for Professor [Shannon Self-Brown](https://publichealth.gsu.edu/profile/shannon-self-brown/). Previously, I was a Research Assistant at the [Centre for Econometric and Allied Research (CEAR)](https://www.linkedin.com/company/centre-for-econometrics-and-applied-research/posts/?feedView=all) at the University of Ibadan, where I developed expertise in development economics and healthcare systems in Sub-Saharan Africa. Here is my [CV](cv/cv.pdf), and you can reach out to me at [oyusuff4@student.gsu.edu](mailto:oyusuff4@student.gsu.edu).
+I am an applied microeconomist with research interests in health, public, labor, and development economics. My research examines how healthcare infrastructure and insurance policy affect population health. Current work focuses on access to mental health treatment facilities, emergency medical services and insurance expansion, and maternal and child health programs in developing countries.
+
+Using econometric methods for causal inference and large-scale administrative data, I study the intended and unintended consequences of health policies, with the goal of informing evidence-based decisions that improve healthcare access and outcomes for vulnerable populations.
+
+During my doctoral studies, I was a research assistant at the [Center on Health and Homelessness](https://chh.gsu.edu/) in Georgia State University's [School of Public Health](https://publichealth.gsu.edu/), where I worked with Professor [Shannon Self-Brown](https://publichealth.gsu.edu/profile/shannon-self-brown/) on the **Program and Process Evaluation Evidence Gap Map Project**. Previously, I was a research assistant at the [Centre for Econometric and Allied Research (CEAR)](https://www.linkedin.com/company/centre-for-econometrics-and-applied-research/posts/?feedView=all) at the [University of Ibadan](https://www.ui.edu.ng/), where I developed expertise in development economics and healthcare systems in Sub-Saharan Africa. I received my B.Sc. in Economics with First Class Honors from the University of Ibadan's [Department of Economics](https://econs.ui.edu.ng/economics).
+
+Here is my [CV](cv/cv.pdf). You can reach me at [olanrewajuyusuffecon@gmail.com](mailto:olanrewajuyusuffecon@gmail.com).
 
 </div>
 
 **Recent Highlights:**
 
-- Selected to present at the [NBER Conference on Health and Healthcare Variations across the Population](https://www.nber.org/conferences/health-and-healthcare-variations-across-population-spring-2026) (Cambridge, MA) | [Watch Presentation](https://www.youtube.com/watch?v=p-cI0Vs3aNw&t=12061s), [ASHEcon Annual Conference](https://ashecon.confex.com/ashecon/2026/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=1&searchterm=olanrewaju%20yusuff) (Minneapolis, MN), and [AcademyHealth Annual Research Meeting](https://academyhealth.confex.com/academyhealth/2026arm/meetingapp.cgi/Person/154498) (Seattle, WA) - Spring/Summer 2026
+- Incoming [Steven M. Teutsch Prevention Effectiveness Postdoctoral Fellow](https://www.cdc.gov/pef/php/about/index.html) at the [Centers for Disease Control and Prevention](https://www.cdc.gov/), [National Center for Environmental Health](https://www.cdc.gov/nceh/index.html), beginning September 2026
 
-- **Revise and Resubmit** at the ***American Journal of Health Economics (AJHE)*** for ["Public Payment Mandates and Provider Supply"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167) with [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/) and [Yu-Ting Huang](https://reinayutinghuang.com/)
+- **Accepted** at the ***American Journal of Health Economics***: ["Public Payment Mandates and Provider Supply: Evidence from Certified Nurse-Midwives"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167), with [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/) and [Yu-Ting Huang](https://reinayutinghuang.com/)
 
-- **Revise and Resubmit** at the ***Journal of African Economies*** for ["Can Higher Education Stimulate Local Economic Development? The Labor Market Impacts of Federal University Expansion in Nigeria"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5575331) with [Godwin Aipoh](https://www.godwinaipoh.com/home)
+- Selected for the [NBER Mentoring Program on Aging and Health Economics Research Meeting](https://www.nber.org/conferences/mentoring-program-aging-and-health-economics-research-fall-2026), Cambridge, MA, October 2026
 
-- **2026 [Horowitz Foundation for Social Policy](https://www.horowitz-foundation.org/) Award** for dissertation research on mental healthcare facilities and mortality | [2026 Awardees](https://www.horowitz-foundation.org/2026)
+- Presented at the [NBER Conference on Health and Healthcare Variations across the Population](https://www.nber.org/conferences/health-and-healthcare-variations-across-population-spring-2026), Cambridge, MA ([watch presentation](https://www.youtube.com/watch?v=p-cI0Vs3aNw&t=12061s)); the [ASHEcon Annual Conference](https://ashecon.confex.com/ashecon/2026/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=1&searchterm=olanrewaju%20yusuff), Minneapolis, MN; and the [AcademyHealth Annual Research Meeting](https://academyhealth.confex.com/academyhealth/2026arm/meetingapp.cgi/Person/154498), Seattle, WA, Spring/Summer 2026
 
-- Recipient of the [Center for the Economic Analysis of Risk (CEAR): Dissertation Fellowship & CEAR Scholar](https://cear.gsu.edu/profile/olanrewaju-yusuff/): [Robinson College of Business, GSU](https://cear.gsu.edu/) (2025-2026)
+- **Revise and Resubmit** at the ***Journal of African Economies***: ["Can Higher Education Stimulate Local Economic Development? The Labor Market Impacts of Federal University Expansion in Nigeria"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5575331), with [Godwin Aipoh](https://www.godwinaipoh.com/home)
 
-- Selected for the [Institute for Research on Poverty (IRP) Professional Development Training](https://www.irp.wisc.edu/staff/yusuff-olanrewaju/), [University of Wisconsin-Madison](https://www.irp.wisc.edu/training/professional-development-training-series-on-poverty-and-economic-mobility-research/) (2025-2026)
+- Recipient of the [2026 ASHEcon Program Chair Award in Mental and Behavioral Health](https://www.ashecon.org/2026-ashecon-award-winners/) for "Mental Healthcare Facilities and Mortality: Evidence from Local Access and Insurance Expansion" ([award abstract](https://ashecon.confex.com/ashecon/2026/meetingapp.cgi/Paper/19690))
 
-- Recipient of [Association for Public Policy & Management Equity & Inclusion Fellowship](https://www.appam.org/about-appam/awards/2025-equity-inclusion-fellowship-student-recipients/) (2025) | [Featured in GSU News](https://news.gsu.edu/2025/12/09/georgia-state-economics-students-honored-nationally-for-policy-research/)
+- Recipient of the [2026 Horowitz Foundation for Social Policy Award](https://www.horowitz-foundation.org/2026) for dissertation research on mental healthcare facilities and mortality ([about the Foundation](https://www.horowitz-foundation.org/))
 
-- Recipient of the [Association for Mentoring & Inclusion in Economics Fellowship](https://econmentoring.org/mentees/yusuff-olanrewaju/) 
-  (2025), mentored by Professors [Ellen McCullough](http://www.ellenmccullough.com/) 
-  (University of Georgia) and [Leah Lakdawala](https://leahlakdawala.weebly.com/) 
-  (Wake Forest University)
+- Recipient of the [Center for the Economic Analysis of Risk (CEAR) Dissertation Fellowship and CEAR Scholar award](https://cear.gsu.edu/profile/olanrewaju-yusuff/), [Robinson College of Business, Georgia State University](https://cear.gsu.edu/), 2025–2026
+
+- Selected for the [Institute for Research on Poverty Professional Development Training Series on Poverty and Economic Mobility Research](https://www.irp.wisc.edu/training/professional-development-training-series-on-poverty-and-economic-mobility-research/), University of Wisconsin–Madison, 2025–2026 ([participant profile](https://www.irp.wisc.edu/staff/yusuff-olanrewaju/))
+
+- Recipient of the [Association for Public Policy Analysis and Management Equity & Inclusion Student Fellowship](https://www.appam.org/about-appam/awards/2025-equity-inclusion-fellowship-student-recipients/), 2025 ([featured in Georgia State University News](https://news.gsu.edu/2025/12/09/georgia-state-economics-students-honored-nationally-for-policy-research/))
+
+- Recipient of the [Association for Mentoring & Inclusion in Economics Fellowship](https://econmentoring.org/mentees/yusuff-olanrewaju/), 2025, mentored by Professors [Ellen McCullough](http://www.ellenmccullough.com/) of the University of Georgia and [Leah Lakdawala](https://leahlakdawala.weebly.com/) of Wake Forest University
 
 
-- Listed on the [AEA CSMGEP Minority Job Market Candidates 2025-26](https://www.aeaweb.org/about-aea/committees/csmgep/market)
+
+<!--- - Listed on the [AEA CSMGEP Minority Job Market Candidates 2025-26](https://www.aeaweb.org/about-aea/committees/csmgep/market)
 
 <!--- Presented at the American Society of Health Economists Annual Meeting (2024, 2025) and APPAM Fall Research Conference (2024, 2025)
 - Panel Organizer, American Society of Health Economists Conference, San Diego (2024)
