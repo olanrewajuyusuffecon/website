@@ -6,14 +6,11 @@ title: <strong>Research</strong>
 ## <strong>Publications</strong>
 
 1. **Public Payment Mandates and Provider Supply: Evidence from Certified Nurse-Midwives** (with [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/) and [Yu-Ting Huang](https://reinayutinghuang.com/))  
-   *Accepted, American Journal of Health Economics*  
+   **Accepted**, *American Journal of Health Economics*  
    [IZA Discussion Paper 18149](https://docs.iza.org/dp18149.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167)
 
-
 ## <strong>Working Papers</strong>
-## <strong>Working Papers</strong>
-1. [Mental Healthcare Facilities and Mortality: Evidence from Local Access and Insurance Expansion](Ola-Yusuff-Mental-Healthcare-Facilities-Mortality.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7087058)
-
+1. [Mental Healthcare Facilities and Mortality: Evidence from Local Access and Insurance Expansion](Ola-Yusuff-Mental-Healthcare-Facilities-Mortality.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7087058)<br>
 *Status: Under review*
 
 <details>
