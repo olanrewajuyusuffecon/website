@@ -35,15 +35,13 @@ I am an applied microeconomist with research interests in health, public, labor,
 
 Using econometric methods for causal inference and large-scale administrative data, I study the intended and unintended consequences of health policies, with the goal of informing evidence-based decisions that improve healthcare access and outcomes for vulnerable populations.
 
-During my doctoral studies, I was a research assistant at the [Center on Health and Homelessness](https://chh.gsu.edu/) in Georgia State University's [School of Public Health](https://publichealth.gsu.edu/), where I worked with Professor [Shannon Self-Brown](https://publichealth.gsu.edu/profile/shannon-self-brown/) on the **Program and Process Evaluation Evidence Gap Map Project**. Previously, I was a research assistant at the [Centre for Econometric and Allied Research (CEAR)](https://www.linkedin.com/company/centre-for-econometrics-and-applied-research/posts/?feedView=all) at the [University of Ibadan](https://www.ui.edu.ng/), where I developed expertise in development economics and healthcare systems in Sub-Saharan Africa. I received my B.Sc. in Economics with First Class Honors from the University of Ibadan's [Department of Economics](https://econs.ui.edu.ng/economics).
+During my doctoral studies, I was a [research assistant](https://www.linkedin.com/posts/center-on-health-and-homelessness_congratulations-to-dr-olanrewaju-yusuff-activity-7493733445072830465-buze) at the [Center on Health and Homelessness](https://chh.gsu.edu/) in Georgia State University's [School of Public Health](https://publichealth.gsu.edu/), where I worked with Professor [Shannon Self-Brown](https://publichealth.gsu.edu/profile/shannon-self-brown/) on the **Program and Process Evaluation Evidence Gap Map Project**. Previously, I was a research assistant at the [Centre for Econometric and Allied Research (CEAR)](https://www.linkedin.com/company/centre-for-econometrics-and-applied-research/posts/?feedView=all) at the [University of Ibadan](https://www.ui.edu.ng/), where I developed expertise in development economics and healthcare systems in Sub-Saharan Africa. I received my B.Sc. in Economics with First Class Honors from the University of Ibadan's [Department of Economics](https://econs.ui.edu.ng/economics).
 
 Here is my [CV](cv/cv.pdf). You can reach me at [olanrewajuyusuffecon@gmail.com](mailto:olanrewajuyusuffecon@gmail.com).
 
 </div>
 
 **Recent Highlights:**
-
-- Incoming [Steven M. Teutsch Prevention Effectiveness Postdoctoral Fellow](https://www.cdc.gov/pef/php/about/index.html) at the [Centers for Disease Control and Prevention](https://www.cdc.gov/), [National Center for Environmental Health](https://www.cdc.gov/nceh/index.html), beginning September 2026
 
 - **Accepted** at the ***American Journal of Health Economics***: ["Public Payment Mandates and Provider Supply: Evidence from Certified Nurse-Midwives"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167), with [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/) and [Yu-Ting Huang](https://reinayutinghuang.com/)
 
@@ -72,7 +70,9 @@ Here is my [CV](cv/cv.pdf). You can reach me at [olanrewajuyusuffecon@gmail.com]
 <!--- Presented at the American Society of Health Economists Annual Meeting (2024, 2025) and APPAM Fall Research Conference (2024, 2025)
 - Panel Organizer, American Society of Health Economists Conference, San Diego (2024)
 
-[CV](/cv/index.qmd) <!-- | [Job Market Paper](#) | [Teaching Materials](#) -->
+[CV](/cv/index.qmd) <!-- | [Job Market Paper](#) | [Teaching Materials](#) 
+
+- Incoming [Steven M. Teutsch Prevention Effectiveness Postdoctoral Fellow](https://www.cdc.gov/pef/php/about/index.html) at the [Centers for Disease Control and Prevention](https://www.cdc.gov/), [National Center for Environmental Health](https://www.cdc.gov/nceh/index.html), beginning September 2026 -->
 
 
 
