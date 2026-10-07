@@ -6,8 +6,8 @@ title: <strong>Research</strong>
 ## <strong>Publications</strong>
 
 1. **Public Payment Mandates and Provider Supply: Evidence from Certified Nurse-Midwives** (with [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/) and [Yu-Ting Huang](https://reinayutinghuang.com/))  
-   **Accepted**, *American Journal of Health Economics*  
-   [IZA Discussion Paper 18149](https://docs.iza.org/dp18149.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167)
+   ***Forthcoming***, *American Journal of Health Economics*  
+   [IZA Discussion Paper 18149](https://docs.iza.org/dp18149.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260167) | [Journal Link](https://www.journals.uchicago.edu/doi/10.1086/744122)
 
 ## <strong>Working Papers</strong>
 1. [Mental Healthcare Facilities and Mortality: Evidence from Local Access and Insurance Expansion](Ola-Yusuff-Mental-Healthcare-Facilities-Mortality.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7087058)<br>
@@ -57,7 +57,7 @@ iii. 🏆 2025/2026 Institute for Research on Poverty (IRP) Dissertation Award, 
 </div>
 </details>
 2. **Can Higher Education Stimulate Local Economic Development? The Labor Market Impacts of Federal University Expansion in Nigeria** (with [Godwin Aipoh](https://www.godwinaipoh.com/home))  
-   *Status: Revise and Resubmit, Journal of African Economies*  
+   *Status: **Revise and Resubmit**, Journal of African Economies*  
    [Annenberg EdWorkingPaper](https://edworkingpapers.com/sites/default/files/ai25-1321.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5575331)
 3. **Unlocking Health Potential: Health Effects of Free Maternal and Child Health Care Program** (with Tejendra Singh)  
    *Status: Under review*  
